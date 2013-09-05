@@ -1,3 +1,6 @@
 [submodule "nwd.Altis"]
 	path = nwd.Altis
 	url = https://github.com/teamacab/nwd.Altis.git
+[submodule "@Arma2NET/Python/ex"]
+	path = @Arma2NET/Python/ex
+	url = https://github.com/teamacab/ex.py.git
