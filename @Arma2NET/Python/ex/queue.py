@@ -1,8 +1,10 @@
 class Queue:
-	QUEUE=[]
 	
-	def add(message):
-		QUEUE.append(message)
+	def __self__(self):
+		self.QUEUE=[];
 	
-	def next():
-		QUEUE.pop(0)
+	def add(self, message):
+		self.QUEUE.append(message)
+	
+	def next(self):
+		self.QUEUE.pop(0)
